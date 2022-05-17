@@ -1,0 +1,4 @@
+﻿  server.cpp
+g:\大三\c++\forum3rd\server\server\server.cpp(75): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+  server.vcxproj -> G:\大三\C++\forum3rd\server\Debug\server.exe

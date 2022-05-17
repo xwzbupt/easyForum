@@ -1,0 +1,14 @@
+﻿  Administrator.cpp
+g:\大三\c++\forum2nd\forum\forum\administrator.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\forum\administrator.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  User.cpp
+  Post.cpp
+  Ordinaryuser.cpp
+  Moderator.cpp
+  ForumSystem.cpp
+  Forum.cpp
+  Comment.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+  Forum.vcxproj -> G:\大三\C++\Forum2nd\Forum\Debug\Forum.exe

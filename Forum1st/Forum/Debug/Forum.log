@@ -1,0 +1,30 @@
+﻿  User.cpp
+g:\大三\c++\forum2nd\forum\user.cpp(6): warning C4101: “i”: 未引用的局部变量
+g:\大三\c++\forum2nd\forum\user.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\user.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\user.cpp(181): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\user.cpp(252): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\user.cpp(275): warning C4018: “<”: 有符号/无符号不匹配
+  Post.cpp
+  Ordinaryuser.cpp
+g:\大三\c++\forum2nd\forum\ordinaryuser.cpp(7): warning C4101: “i”: 未引用的局部变量
+g:\大三\c++\forum2nd\forum\ordinaryuser.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+  Moderator.cpp
+g:\大三\c++\forum2nd\forum\moderator.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  ForumSystem.cpp
+  Forum.cpp
+g:\大三\c++\forum2nd\forum\forum.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\forum.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\forum.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\forum.cpp(203): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\forum.cpp(367): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\forum.cpp(379): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\forum.cpp(405): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\forum.cpp(419): warning C4018: “<”: 有符号/无符号不匹配
+  Comment.cpp
+  Administrator.cpp
+g:\大三\c++\forum2nd\forum\administrator.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+g:\大三\c++\forum2nd\forum\administrator.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+  Forum.vcxproj -> G:\大三\C++\Forum2nd\Debug\Forum.exe
